@@ -1,0 +1,53 @@
+"C:\\Users\\mateu\\Desktop\\splicersdata\\1.csv"
+
+
+[
+  {
+    "idNumber": 1,
+    "machineType": 0,
+    "ip": "192.168.1.1",
+    "id": "a087f4cf-804c-4e0e-84df-b5c2b2b342d2",
+    "createdAt": "2019-05-22T20:48:20.690231",
+    "updatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "idNumber": 2,
+    "machineType": 0,
+    "ip": "192.168.1.2",
+    "id": "31bf4465-ed41-40d5-827e-8785f7173337",
+    "createdAt": "2019-05-22T20:48:30.200793",
+    "updatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "idNumber": 3,
+    "machineType": 0,
+    "ip": "192.168.1.3",
+    "id": "11c5f693-e4b8-4c7a-9ba9-2e86513dde25",
+    "createdAt": "2019-05-22T20:48:35.816323",
+    "updatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "idNumber": 4,
+    "machineType": 0,
+    "ip": "192.168.1.4",
+    "id": "e24eeeca-03b1-4508-8187-0eae278d0c9a",
+    "createdAt": "2019-05-22T20:48:41.576671",
+    "updatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "idNumber": 5,
+    "machineType": 0,
+    "ip": "192.168.1.5",
+    "id": "1d67ed75-eb33-401b-bc18-048d819ea1c9",
+    "createdAt": "2019-05-22T20:48:48.262171",
+    "updatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "idNumber": 6,
+    "machineType": 0,
+    "ip": "192.168.1.6",
+    "id": "b0413573-ac0d-49da-acbc-bb545dca9de4",
+    "createdAt": "2019-05-24T08:46:32.676",
+    "updatedAt": "0001-01-01T00:00:00"
+  }
+]
